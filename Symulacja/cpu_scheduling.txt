@@ -1,0 +1,3 @@
+Task1, 24
+Task2, 3
+Task3, 3
